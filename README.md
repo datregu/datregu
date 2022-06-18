@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dani!
-- 👀 I’m interested in Web Development, GIS Analysis, and maps 
+- 👀 I’m interested in Software Engineering & GIS
 - 📫 datregu@gmail.com
 
 <!---
