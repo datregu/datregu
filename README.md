@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dani TG</h1>
 <h3 align="center">A passionate software engineer from Murcia</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript and Java**
 
 - 👯 I’m looking to collaborate on **open source**
 
